@@ -1,0 +1,18 @@
+/* header.component.scss */
+
+@import '../../../assets/scss/partials/layout.vars';
+
+/*-- Header --*/
+.content {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2 {
+    margin: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button {
+    margin: 25px;
+}
+
